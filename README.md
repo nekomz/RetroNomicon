@@ -18,6 +18,8 @@ dynamically load the theme without having to download any files.
 @import url("https://cdn.rawgit.com/THEEYandereChan/Simplicity/master/mods/UserPopoutsUpgraded.theme.css");
 @import url("https://github.com/nekomz/RetroNomicon/master/themes/Retronomicon.theme.css");
 ```
+Oh, and if that didn't work, you can just copy paste the content of https://cdn.rawgit.com/THEEYandereChan/Simplicity/master/mods/UserPopoutsUpgraded.theme.css
+and put that in your custom CSS.
 
 # Preview
 ![Preview](http://i.imgur.com/H4IQIUs.png)
