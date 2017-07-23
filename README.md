@@ -14,6 +14,8 @@ dynamically load the theme without having to download any files.
 /* IMPORT CSS FROM GITHUB */
 
 /* Load Base theme */
+//Thanks Yan-Chan ;3
+@import url("https://cdn.rawgit.com/THEEYandereChan/Simplicity/master/mods/UserPopoutsUpgraded.theme.css");
 @import url("https://github.com/nekomz/RetroNomicon/master/themes/Retronomicon.theme.css");
 ```
 
