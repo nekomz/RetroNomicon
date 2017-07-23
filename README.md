@@ -1,52 +1,21 @@
-# Simplicity
-A theme made for simplicity and ease of use
+# RetroNomicon
+A Discord theme made for retro fans and fun
 
 Feel free to use it, leave feedback and suggest new features!
 For the best results, **use the dark theme**.
 
-Designed by *THEE Yandere-Chan* ; latest version: **3.1.0**.
+Designed by *Romzelized*, But Using GH Template of *Thee Yandere Chan* ; latest version: **1.0**.
 
 # Dynamic Import
 Paste this link in your Custom CSS section if you want to
 dynamically load the theme without having to download any files.
+
 ```css
 /* IMPORT CSS FROM GITHUB */
 
-/* Mod Loader */
-@import url("https://cdn.rawgit.com/THEEYandereChan/Simplicity/master/mods/UserPopoutsUpgraded.theme.css");
-
 /* Load Base theme */
-@import url("https://cdn.rawgit.com/THEEYandereChan/Simplicity/master/themes/Simplicity%20Beta.theme.css");
-/* ===== CUSTOMIZABLE COLORS ===== */
-
-:root {
-	--main-color: #808080;
-	--hover-color: #6f182a;
-	--bgurl : url(https://raw.githubusercontent.com/THEEYandereChan/Simplicity/master/backgrounds/wallhaven-436907.jpg);
-}
-```
-
-# Dedicated Import
-Paste this in your theme.css file if you want to always import when you start discord
-Use this to download the files
-```css
-//META{"name":"Simplicity","description":"A simplistic theme compatible with BD and Stylish","author":"THEE Yandere - Chan","version":"3.0v"}*//{}
-
-/* IMPORT CSS FROM GITHUB */
-
-/* Mod Loader */
-@import url("https://cdn.rawgit.com/THEEYandereChan/Simplicity/master/mods/UserPopoutsUpgraded.theme.css");
-
-/* Load Base theme */
-@import url("https://cdn.rawgit.com/THEEYandereChan/Simplicity/master/themes/Simplicity%20Beta.theme.css");
-/* ===== CUSTOMIZABLE COLORS ===== */
-
-:root {
-	--main-color: #808080;
-	--hover-color: #6f182a;
-	--bgurl : url(https://raw.githubusercontent.com/THEEYandereChan/Simplicity/master/backgrounds/wallhaven-436907.jpg);
-}
+@import url("https://github.com/nekomz/RetroNomicon/master/themes/Retronomicon.theme.css");
 ```
 
 # Preview
-![Preview](https://vgy.me/5UweEN.png)
+![Preview](http://i.imgur.com/H4IQIUs.png)
